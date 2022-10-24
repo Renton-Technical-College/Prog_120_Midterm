@@ -14,7 +14,7 @@ namespace Prog_120_Midterm
             // Since you will have multiple menus I am giving you a basic menu to start with to keep things organized.
             // Your four seperate apps will be built in the method blocks below.
 
-            // You still need to add the goto / labels, display the information, and change the cases.
+            // You still need to add the goto / labels, display the information, and change the cases here to make a starting menu.
 
             // Change this, it will start by selecting the calculator app.
             string placeholder = "1";
